@@ -4,3 +4,4 @@ bot_log_*.log  # Ignore bot logs.
 errors.log  # Ignore error logs.
 __pycache__/  # Ignore Python cache folders (automatic junk).
 *.pyc  # Ignore compiled Python files.
+venv/  # Ignore any venv folders if they sneak back in.
