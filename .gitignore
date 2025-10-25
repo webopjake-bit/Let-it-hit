@@ -1,0 +1,6 @@
+.env  # Ignore this file to keep your API keys private—edit if you have other secrets.
+trades.csv  # Ignore trade logs (contains PNL data; keep local unless you want to share).
+bot_log_*.log  # Ignore bot logs.
+errors.log  # Ignore error logs.
+__pycache__/  # Ignore Python cache folders (automatic junk).
+*.pyc  # Ignore compiled Python files.
